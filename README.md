@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexDolch
 - 👀 I’m interested in pretty much everything, especially (board) games
-- 🌱 I’m currently learning to code, mostly python
+- 🌱 I love to code, mostly python
 - 📫 How to reach me: alexdolch@yahoo.de
 
 <!---
